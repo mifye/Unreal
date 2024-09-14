@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WP_HealthBar.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WP_Score.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/estrellitaaa.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/ojo2.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/Worm.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Gusano_Body.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Tunnel.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Gusano_Body_2.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Gusano_Camisa.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Gusano_Cuerdas.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Gusano_Dientes_2.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Gusano_Lengua.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Material_001.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Material_002.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/ojo2.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/royghness.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Norway_Forest_8K_HDRi.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/lights/SC_backgroundLIght.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/20190909_frog20190909_frog_12-NM_u0_v0.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/20190909_frog20190909_frog_12-AO_u0_v0.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/20190909_frog20190909_frog_12-DM_0_141079_2048_u0_v0.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/20190909_frog20190909_frog_12-TM_u0_v0.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/20190909_frog20190909_frog_12-CV_u0_v0.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/20190909_frog20190909_frog_12-VD2048_u0_v0.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/NewMaterial.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/20190909_frog_Group15282.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WP_plus10.uasset",
+				"/Users/mifye/Dev/UNREAL/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/Gusano_Gusano_Normal.uasset"
+			]
+		}
+	]
+}
